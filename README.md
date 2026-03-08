@@ -565,14 +565,3 @@ The Full Presentation: "Node Wars"
 | The Payout | Review the Battle Report. Upgrade nodes using earned tokens. | Credits are redistributed based on Market Share. |
 
 ---
-
-
-
- 
-
-
-
-
-
-
-
